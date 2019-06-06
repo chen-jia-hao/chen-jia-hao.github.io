@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[picture]]></title>
-    <url>%2F2019%2F06%2F01%2Fpicture%2F</url>
-    <content type="text"><![CDATA[Hexo图片相对地址测试]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[hello-Hexo]]></title>
-    <url>%2F2019%2F06%2F01%2Fhello-Hexo%2F</url>
-    <content type="text"><![CDATA[git1private KpiInfoDao kpiInfoDao;]]></content>
+    <title><![CDATA[一周学会mysql]]></title>
+    <url>%2F2019%2F06%2F06%2F%E4%B8%80%E5%91%A8%E5%AD%A6%E4%BC%9Amysql%2F</url>
+    <content type="text"><![CDATA[sql一周掌握 一周快速掌握SQL基础的指南，每天完成一张图里的内容就可以了啦。 第一天： SQL入门学习SQL语句的书写语法和规则 第二天：查询基础Select查询语句是SQL中最基础也是最重要的语句，这天我们就来利用Select来对表中的数据进行查询。 第三天：聚合与排序面对大量数据我们时常需要对其做汇总的分析。这部分内容就是说明各类汇总操作的方法。 第四天：数据更新管理数据库时，我们可能需要的不仅仅是“读”数据，更需要“写”数据，也就是对表进行更新和修改。这一天的内容侧重对表的修改操作，并学习重要的数据库管理方法——事务的创建。 第五天：复杂查询这部分的学习内容如果掌握，你将拥有解决实际工作中很多问题的技能。学完需要多复习，并且灵活运用哦~ 第六天：函数、谓词、case表达式如同所有编程语言一样，SQL也有好用的工具包——函数。利用函数，可以将很多复杂的问题在一行代码内解决完成。 第七天：集合运算在有多张表的情况下，表和表之间的运算和联系就变得很重要，利用集合运算就可以将不同表中的数据整合起来。]]></content>
+      <categories>
+        <category>数据库</category>
+      </categories>
       <tags>
-        <tag>ok</tag>
+        <tag>mysql</tag>
       </tags>
   </entry>
   <entry>
